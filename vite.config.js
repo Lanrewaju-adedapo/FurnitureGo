@@ -5,8 +5,9 @@ import webfontDownload from 'vite-plugin-webfont-dl'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/FurnitureGo",
+  base: process.env.VITE_BASE_PATH ,
   plugins: [
+    
     react(),
     tailwindcss(),
     webfontDownload([
