@@ -3,7 +3,7 @@ import Discount from '../images/Discount.png'
 import Wrench from '../images/wrench.png'
 import transaction from '../images/transaction.png'
 import tracking from '../images/tracking.png'
-import Showroom from '../images/Showroom.jpg'
+import Showroom from '../images/showroom.jpg'
 
 
 const About = () => {
