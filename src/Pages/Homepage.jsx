@@ -9,16 +9,14 @@ import Contactus from "../components/Contactus"
 const Homepage = () => {
   return (
     <>
-      <div className="bg-[url('/images/smallbackground2.png')] md:bg-[url('/images/Background.png')] bg-cover bg-center bg-no-repeat bg-fixed w-full min-h-screen h-auto"
-      style={{backgroundAttachment: window.innerWidth < 768 ? 'scroll' : 'fixed'}}>
-          <Navbar />
-        <div className="container lg:mx-2 mx-auto px-">
-          <Home />
-        </div>
+      <div className="relative bg-[url('/images/smallbackground2.png')] md:bg-[url('/images/Background.png')] filter brightness-100 bg-cover bg-center bg-no-repeat bg-fixed w-full min-h-screen h-auto" style={{backgroundAttachment: window.innerWidth < 768 ? 'scroll' : 'fixed'}}>
+     
+        <Navbar />       
+        <Home  className="container lg:mx-2 mx-auto px-"/>       
       </div>
-         <Body />
-         <Productslist/>
-         <About/>
+        <Body />
+        <Productslist/>
+        <About/>
          {/* <Contactus/> */}
     </>
   )
