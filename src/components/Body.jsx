@@ -1,12 +1,12 @@
 import React from 'react'
-import Bodyimg from '../images/office3.jpg'
+// import Bodyimg from '../images/office3.jpg'
 
 const Body = () => {
   return (
     <>
       <div className='bg-white py-16 px-5 lg:px-10 flex flex-col lg:flex-row items-center justify-center gap-8 lg:gap-12 mt-'>
     <img 
-        src={Bodyimg} 
+        src='/images/office3.jpg' 
         className='w-full max-w-[300px] sm:max-w-[400px] md:max-w-[500px] lg:max-w-[500px] h-auto' 
         alt="" 
     />

@@ -4,55 +4,55 @@
       "Product_Name": "Living Room Sofa",
       "price": "$1200.00",
       "space": "Living Room",
-      "image": "src/images/LivingRoomSofa.png"
+      "image": "/images/sofa.png"
     },
     {
       "id": 2,
       "Product_Name": "Kitchen Cabinet",
       "price": "$2000.00",
       "space": "Kitchen",
-      "image": "src/images/Kitchencabinet.png"
+      "image": "/images/Kitchencabinet.png"
     },
     {
       "id": 3,
       "Product_Name": "Curved Monitor Stand",
       "price": "$200.00",
       "space": "Office",
-      "image": "src/images/CurvedMonitorStand.jpg"
+      "image": "/images/Curvedstand.jpg"
     },
     {
       "id": 4,
       "Product_Name": "Bedroom Single Chair",
       "price": "$1500.00",
       "space": "Bedroom",
-      "image": "src/images/Bedroom Single Chair.png"
+      "image": "/images/singlechair.png"
     },
     {
       "id": 5,
       "Product_Name": "Japandi Cofee Table",
       "price": "$4000.00",
       "space": "Living Room",
-      "image": "src/images/Cofeetable2.jpg"
+      "image": "/images/Cofeetable2.jpg"
     },
     {
       "id": 6,
       "Product_Name": "Bookshelf",
       "price": "$800.00",
       "space": "Office",
-      "image": "src/images/Bookshelf.png"
+      "image": "/images/Bookshelf.png"
     },
     {
       "id": 7,
       "Product_Name": "Modern Bathroom Mirror",
       "price": "$600.00",
       "space": "Bathroom",
-      "image": "src/images/Mirror.jpg"
+      "image": "/images/Mirror.jpg"
     },
     {
       "id": 8,
       "Product_Name": "Office Plant",
       "price": "$700.00",
       "space": "Office",
-      "image": "src/images/plants.jpg"
+      "image": "/images/plants.jpg"
     }
   ]
