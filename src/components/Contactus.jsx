@@ -15,7 +15,7 @@ import { FaTwitter } from 'react-icons/fa6'
 
 const Contactus = () => {
   return (
-<footer className='bg-[#4a4a4a] mt-8 pt-8 pb-4 px-4 sm:px-6 lg:px-8'>
+<footer className='bg-[#4a4a4a] mt-8 pt-10 pb-4 px-4 sm:px-6 lg:px-8'>
   <div className="max-w-7xl mx-auto">
     <div className="flex justify-center items-center flex-col">
       <h1 className="text-white font-medium tracking-widest text-2xl sm:text-3xl md:text-4xl">

@@ -21,7 +21,7 @@ const Reviews = () => {
           <h1 className='text-lg md:text-xl font-medium'>Lanre Adedapo</h1>
         </div> 
         <p className='text-center text-base md:text-lg'>
-          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit, saepe"
+          "Great customer service, smooth shopping experience, and my bed is incredibly cozy!"
         </p>        
       </div>
       {/* 2 */}
@@ -35,7 +35,7 @@ const Reviews = () => {
           <h1 className='text-lg md:text-xl font-medium'>Lanre Adedapo</h1>
         </div> 
         <p className='text-center text-base md:text-lg'>
-          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit, saepe"
+          "High-quality furniture at affordable prices, and the delivery was super fast!"
         </p>        
       </div>
       {/* 2 */}
@@ -49,7 +49,7 @@ const Reviews = () => {
           <h1 className='text-lg md:text-xl font-medium'>Lanre Adedapo</h1>
         </div> 
         <p className='text-center text-base md:text-lg'>
-          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit, saepe"
+          "The perfect blend of comfort and elegance—highly recommend this store!"
         </p>        
       </div>
     </div>
