@@ -17,7 +17,7 @@ const Body = () => {
                 Boost Your Productivity.
             </h1>
         </div>
-        <p className='mt-4 text-sm md:text-base lg:text-lg text-gray-600'>
+        <p className='mt-4 text-sm md:text-base lg:text-lg text-gray-600 text-center'>
           A well-designed office enhances focus and efficiency. Ergonomic furniture reduces fatigue, while organized layouts minimize distractions. Proper lighting and comfortable   seating improve mood and energy levels. A clutter-free, functional workspace fosters creativity and workflow. Investing in the right office setup leads to better performance, fewer errors, and higher productivity.
         </p>
         

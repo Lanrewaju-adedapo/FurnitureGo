@@ -11,7 +11,7 @@ const About = () => {
         <div className="flex items-center w-full max-w-3xl">
                     
         
-            <p className='mt-4 text-sm md:text-base lg:text-lg text-gray-600'>
+            <p className='mt-4 text-sm md:text-base lg:text-lg text-center text-gray-600'>
             At FurnitureGo, we're passionate about transforming houses into homes with furniture that combines exceptional craftsmanship, timeless design, and everyday functionality. Founded in Birth, we set out with a simple mission: to create beautiful, high-quality pieces that elevate living spaces while remaining accessible and sustainable.
             Every item in our collection is thoughtfully designed with your lifestyle in mind—whether you're furnishing a first apartment, upgrading your family home, or designing a cozy reading nook. We work with skilled artisans and trusted manufacturers who share our commitment to ethical sourcing and durable materials, ensuring each piece is built to last.
             Beyond just furniture, we believe in the art of living well. Our team of design enthusiasts is here to guide you, offering inspiration and expertise to help you curate a space that truly reflects your personality. From sleek modern silhouettes to warm, rustic charm, our diverse range caters to every taste.

@@ -4,6 +4,7 @@ import Body from "../components/Body"
 import Productslist from "../components/Productslist"
 import About from "../components/About"
 import Contactus from "../components/Contactus"
+import Reviews from "../components/Reviews"
 
 
 const Homepage = () => {
@@ -17,6 +18,7 @@ const Homepage = () => {
         <Body />
         <Productslist/>
         <About/>
+        <Reviews/>
          <Contactus/>
     </>
   )
