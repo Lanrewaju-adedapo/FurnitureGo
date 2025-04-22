@@ -17,7 +17,7 @@ const Homepage = () => {
         <Body />
         <Productslist/>
         <About/>
-         {/* <Contactus/> */}
+         <Contactus/>
     </>
   )
 }

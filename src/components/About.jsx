@@ -1,10 +1,6 @@
 import React from 'react'
-// import Discount from '../images/Discount.png'
-// import Wrench from '../images/wrench.png'
-// import transaction from '../images/transaction.png'
-// import tracking from '../images/tracking.png'
-// import Showroom from '../images/showroom.jpg'
-// import ggg from './'
+
+
 
 const About = () => {
   return (
@@ -25,25 +21,27 @@ const About = () => {
             <img src='/images/showroom.jpg' className='w-full max-w-[300px] sm:max-w-[400px] md:max-w-[500px] lg:max-w-[500px] h-auto' alt=""/>
         </div>
         
-        <div className='mt-6 md:flex items-center  border-t py-7 border-gray-300 justify-around'>
-            <div className='px-20 flex items-center'>
+        <div className='mt-6 md:flex items-center border-t py-7 border-gray-300 justify-around'>
+            <div className='px-20 flex items-center md:mb-0 mb-3'>
                 <img src='/images/Discount.png' className='size-10' />
                 <h1 className='ml-2 text-xl text-[#4A4A4A] font-medium'>Fair Discounts</h1>
             </div>
-            <div className='px-20 flex items-center'>
+            <div className='px-20 flex items-center md:mb-0 mb-3'>
                 <img src='/images/wrench.png' className='size-10' />
                 <h1 className='ml-2 text-xl text-[#4A4A4A] font-medium'>Free Installation</h1>
             </div>
-            <div className='px-20 flex items-center'>
+            <div className='px-20 flex items-center md:mb-0 mb-3'>
                 <img src='/images/transaction.png' className='size-10' />
                 <h1 className='ml-2 text-xl text-[#4A4A4A] font-medium'>Secured Transactions</h1>
             </div>
-            <div className='px-20 flex items-center'>
+            <div className='px-20 flex items-center md:mb-0 mb-3'>
                 <img src='/images/tracking.png' className='size-10' />
                 <h1 className='ml-2 text-xl text-[#4A4A4A] font-medium'>Flexible Delivery</h1>
             </div>
         </div>
+        
     </div>
+    
   )
 }
 

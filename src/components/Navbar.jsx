@@ -29,7 +29,7 @@ const Navbar = () => {
         ) } 
         {IsOpen ? 
         
-        (<div className='bg-[#fc9521] overflow-y-hidden fixed z-10 top-0 right-0 w-1/2 min-h-screen flex justify-center items-center flex-col gap-10 duration-500 ease-in'>
+        (<div className='bg-[#fc9521] overflow-y-hidden fixed z-10 top-0 right-0 w-1/2 min-h-screen flex justify-center items-center flex-col gap-10 duration-100 ease-in'>
              <a href="#" className="text-white tracking-widest font-semibold">Home</a>
             <a href="index.html" className="text-white  tracking-widest font-semibold">Products</a>
             <a href="#" className="text-white  tracking-widest font-semibold transition-ease-in-out duration-500">About Us</a>
@@ -38,7 +38,7 @@ const Navbar = () => {
         </div>) 
         
         
-        :(<div className='bg-[#fc9521] overflow-y-hidden fixed z-10 top-0 right-[-150%] w-screen min-h-screen flex justify-center items-center flex-col gap-10 duration-500 ease-in'>
+        :(<div className='bg-[#fc9521] overflow-y-hidden fixed z-10 top-0 right-[-150%] min-h-screen flex justify-center items-center flex-col gap-10 duration-500 ease-in'>
             
         </div>)}
         <div className='items-center justify-center hidden md:flex'>
