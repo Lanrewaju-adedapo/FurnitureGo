@@ -4,6 +4,7 @@
       "Product_Name": "Living Room Sofa",
       "price": "$1200.00",
       "space": "Living Room",
+      "Description": "A sleek, modular sofa with plush cushions, perfect for lounging or entertaining in modern comfort.",
       "image": "/images/sofa.png"
     },
     {
@@ -11,6 +12,7 @@
       "Product_Name": "Kitchen Cabinet",
       "price": "$2000.00",
       "space": "Kitchen",
+      "Description": "Durable, handle-less cabinets with soft-close hinges for a minimalist, clutter-free culinary workspace.",
       "image": "/images/Kitchencabinet.png"
     },
     {
@@ -18,6 +20,7 @@
       "Product_Name": "Curved Monitor Stand",
       "price": "$200.00",
       "space": "Office",
+      "Description": "Ergonomically designed to elevate screens, saving desk space while enhancing posture and airflow.",
       "image": "/images/Curvedstand.jpg"
     },
     {
@@ -25,6 +28,7 @@
       "Product_Name": "Bedroom Single Chair",
       "price": "$1500.00",
       "space": "Bedroom",
+      "Description": "A compact, upholstered accent chair offering cozy seating with timeless, space-saving elegance.",
       "image": "/images/singlechair.png"
     },
     {
@@ -32,6 +36,7 @@
       "Product_Name": "Japandi Cofee Table",
       "price": "$4000.00",
       "space": "Living Room",
+      "Description": "A fusion of Scandinavian simplicity and Japanese craftsmanship in smooth, natural wood tones.",
       "image": "/images/Cofeetable2.jpg"
     },
     {
@@ -39,6 +44,7 @@
       "Product_Name": "Bookshelf",
       "price": "$800.00",
       "space": "Office",
+      "Description": "A sturdy, geometric shelving unit with open compartments for stylish, organized book and décor display.",
       "image": "/images/Bookshelf.png"
     },
     {
@@ -46,6 +52,7 @@
       "Product_Name": "Modern Bathroom Mirror",
       "price": "$600.00",
       "space": "Bathroom",
+      "Description": "A frameless, anti-fog LED mirror with adjustable lighting for a sleek, functional bathroom upgrade.",
       "image": "/images/Mirror.jpg"
     },
     {
@@ -53,6 +60,7 @@
       "Product_Name": "Office Plant",
       "price": "$700.00",
       "space": "Office",
+      "Description": "A low-maintenance, air-purifying green companion to boost productivity and brighten workspaces naturally.",
       "image": "/images/plants.jpg"
     }
   ]
